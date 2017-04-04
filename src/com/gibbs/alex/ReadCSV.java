@@ -38,7 +38,7 @@ public class ReadCSV {
                 break;
             case "10":
                 hashMap.put(inputString[5], ORDER_FILLED);
-
+                break;
         }
     }
 
